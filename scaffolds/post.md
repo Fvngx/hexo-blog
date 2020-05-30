@@ -2,10 +2,8 @@
 title: {{ title }}
 date: {{ date }}
 author:
-img:
-coverImg:
-top: false
-cover: false
+top_img: true
+cover: true
 toc: true
 mathjax: false
 password:

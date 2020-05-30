@@ -121,5 +121,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Fvngx/fvngx.github.io.git
+  repo: git@120.77.157.1:/home/git/blog.git
+  # repo: git@github.com:Fvngx/fvngx.github.io.git
   branch: master

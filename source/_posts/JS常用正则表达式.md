@@ -1,17 +1,11 @@
 ---
 title: JS常用正则表达式
-top: false
-cover: false
-toc: true
-mathjax: false
+cover: true
 author: star
 tags: JS
 categories: 前端
 abbrlink: 5503f3
 date: 2020-05-24 19:36:08
-img:
-coverImg:
-password:
 summary:
 ---
 ## 常用的正则表达式
